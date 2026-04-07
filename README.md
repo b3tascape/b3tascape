@@ -1,1 +1,1 @@
-### applied AI engineer building LLM-powered applications and agentic systems.
+### applied ai engineer building llm-powered applications and agentic systems.
